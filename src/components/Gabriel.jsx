@@ -1,8 +1,8 @@
-import React from 'react';
+import React from "react";
 
 const Gabriel = () => {
     return (
-        <>Gabriel</>
+        <div>Gabriel </div>
     )
 }
 
